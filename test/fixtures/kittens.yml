@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date_of_birth: 2018-08-08
+  gender: MyString
+  breed: MyString
+  color: MyString
+  status: 1
+  fixed: false
+  vaccine_1: 2018-08-08
+  vaccine_2: 2018-08-08
+  vaccine_3: 2018-08-08
+  rabies_shot: 2018-08-08
+  created_at: 2018-08-08 19:04:43
+  updated_at: 2018-08-08 19:04:43
+  start_date: 2018-08-08
+  end_date: 2018-08-08
+
+two:
+  name: MyString
+  date_of_birth: 2018-08-08
+  gender: MyString
+  breed: MyString
+  color: MyString
+  status: 1
+  fixed: false
+  vaccine_1: 2018-08-08
+  vaccine_2: 2018-08-08
+  vaccine_3: 2018-08-08
+  rabies_shot: 2018-08-08
+  created_at: 2018-08-08 19:04:43
+  updated_at: 2018-08-08 19:04:43
+  start_date: 2018-08-08
+  end_date: 2018-08-08
