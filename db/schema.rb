@@ -13,6 +13,7 @@
 ActiveRecord::Schema.define(version: 2018_08_09_010443) do
 
   create_table "kittens", force: :cascade do |t|
+    t.integer "parent_id"
     t.string "name"
     t.date "date_of_birth"
     t.string "gender"

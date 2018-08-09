@@ -1,6 +1,7 @@
 class CreateKittens < ActiveRecord::Migration[5.2]
   def change
     create_table :kittens do |t|
+      t.integer :parent_id
       t.string :name
       t.date :date_of_birth
       t.string :gender
